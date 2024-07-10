@@ -1,0 +1,8 @@
+Method (GET, POST, PUT, DELETE)  For example, if we make a request to a URL on our browser like https://:www.google.com, we are using the GET method and our response will definitely be the resource(what we see on our browser)
+
+
+Request URL: https://www.google.com/
+Request Method: GET
+Status Code: 200 
+Remote Address: ******
+Referrer Policy: origin
