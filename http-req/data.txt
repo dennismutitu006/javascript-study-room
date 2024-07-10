@@ -1,0 +1,8 @@
+With methods such as POST we must send data to the server
+POST /test HTTP/1.1
+Host: foo.example
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 27
+
+name=Victor&email=emailaddress
+we are sending the data(name and email) to the server for a purpose known to the client.
