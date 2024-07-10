@@ -1,0 +1,4 @@
+we have to call this request componnet even if we can use it or do what it does on the headers or as a data.
+More often you will be sending a token to the server so the server can authenticate and know who you are before giving you access to the resource.
+
+Authorization: 
